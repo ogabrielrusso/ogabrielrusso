@@ -1,12 +1,16 @@
-## Olá, seja bem vindo ao meu perfil!
+## Olá, seja bem vindo ao meu perfil! 
 
-👾 Me chamo Gabriel Russo Teixeira!
+👾 Me chamo Gabriel Russo Teixeira.
 
-🧑‍💻 Formado em Design responsivo para web e Técnico em Informática para a Internet.
+📚 Bacharel em Turismo, Técnico em Informática para a Internet e Desenvolvedor Web.
 
-📚 Apaixonado por tecnologia busco novas formações na área como desenvolvimento Full-Stack.
+🧑‍💻 Tenho formação em Turismo e segui na área por alguns anos adquirindo experiência em agência de viagens e Eventos. Sempre gostei de estar envolvido com o gerenciamento de viagens mas foi com a tecnologia e Design que me apaixonei. Como um bom curioso, me aventurei pelo universo Tech e o resultado disso foi a migração de área. Me tornei web designer onde pude realizar trablahos com  a criação de sites responsivos para web utilizando Wordpress, Elementor e ferramentas como o Figma, aplicando UX e UI. Logo busquei aprimorar minhas habilidades e conhecimentos investindo na minha formação em Técnico de Informática para a Internet, onde aprendi muito sobre desenvolvimento web. Nessa jornada tive a oportunidade de estudar Marketing Digital onde adquiri conhecimentos com sistema CRM, SEO, SEM, E-mail Marketing e Markenting de conteúdo. Estou sempre disposto a aprender e encarar novos desafios. Atualmente estudo desenvolvimento Frontend.
 
-📃 [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
+🌱 Meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores e estratégias de marketing que vendem! Sempre pensando na melhor experiência do usuário.  
+
+
+📃 [Acesse meu perfil no Linkedin e entre em contato para alinharmos nossas ideias](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
+
 
 ## Minhas Tecnologias
 
