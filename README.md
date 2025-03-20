@@ -27,5 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de ogabrielrusso" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=dracula" alt="Linguagens Mais Usadas de ogabrielrusso" />
 </p>
