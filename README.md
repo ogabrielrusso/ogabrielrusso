@@ -11,7 +11,7 @@
 
 🌱 Meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores e estratégias de marketing que vendem! Sempre pensando na melhor experiência do usuário.
 
- 📖 Meus livros favoritos: A conciência do Átomo de Alice Baleiy e Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
+ 📖 Meus livros favoritos: A conciência do Átomo de Alice Bailey e Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
 
  ☄️ Minhas inspirações: Alan Turing, Cleópatra, Leonardo Davinci, Nikola Tesla e Walt Disney.
 
