@@ -4,7 +4,7 @@
 
 📚 Bacharel em Turismo pela Uninove, Técnico em Informática para a Internet pela Escola Técnica FAT e Desenvolvedor Web por Freecodecamp.
 
-🌱 MeApaixonado por tecnologia meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores e estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
+🌱 Apaixonado por tecnologia meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores e estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
 
 
 ## 📬 Contato
