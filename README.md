@@ -2,18 +2,9 @@
 
 👾 Me chamo Gabriel Russo Teixeira.
 
-👨‍🎓 Bacharel em Turismo, Técnico em Informática para a Internet e Desenvolvedor Web.
+📚 Bacharel em Turismo, Técnico em Informática para a Internet e Desenvolvedor Web.
 
-
-📚 Tenho formação em Turismo e segui na área por alguns anos adquirindo experiência em agência de viagens e Eventos. Sempre gostei de estar envolvido com o gerenciamento de viagens mas foi pela tecnologia e Design que me apaixonei. Como um bom curioso, me aventurei pelo universo Tech e o resultado disso foi a migração de área. Me tornei web designer onde pude realizar trablahos com  a criação de sites responsivos para web utilizando Wordpress, Elementor e ferramentas como o Figma, aplicando UX e UI.
-
-🧑‍💻 Logo busquei aprimorar minhas habilidades e conhecimentos investindo na minha formação em Técnico de Informática para a Internet, onde aprendi muito sobre desenvolvimento web. Nessa jornada tive a oportunidade de estudar Marketing Digital onde adquiri conhecimentos com sistema CRM, SEO, SEM, E-mail Marketing e Markenting de conteúdo. Estou sempre disposto a aprender e encarar novos desafios. Atualmente estudo desenvolvimento Frontend.
-
-🌱 Meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores e estratégias de marketing que vendem! Sempre pensando na melhor experiência do usuário.
-
- 📖 Meus livros favoritos: A conciência do Átomo de Alice Bailey e Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
-
- ☄️ Minhas inspirações: Alan Turing, Cleópatra, Leonardo Davinci, Nikola Tesla e Walt Disney.
+🌱 Meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores e estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
 
 
 📃 [Acesse meu perfil no Linkedin e entre em contato para alinharmos nossas ideias](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
@@ -46,3 +37,4 @@
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=dark)](https://github.com/ogabrielrusso)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=dark)](https://github.com/ogabrielrusso
+![Snake](https://github.com/{ogabrielrusso}/{ogabrielrusso}/blob/output/github-contribution-snake.svg?color=00FF00&type=vertical&palette=github-dark)
