@@ -8,7 +8,7 @@
 
 📃 [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
 
-📬 [Envie-me uma mensagem](gabrieldevdesigner@proton.me)
+📬 [Envie-me uma mensagem](mailto:gabrieldevdesigner@proton.me)
 
 
 ## 🤖 Tecnologias
@@ -36,6 +36,5 @@
 
 ## 📊 Estatísticas GitHub
 
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=vue-dark)](https://github.com/ogabrielrusso)
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=vue-dark)](https://github.com/ogabrielrusso)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=vue-dark)](https://github.com/ogabrielrusso)
