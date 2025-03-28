@@ -19,24 +19,33 @@
 📃 [Acesse meu perfil no Linkedin e entre em contato para alinharmos nossas ideias](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
 
 
-## Minhas Tecnologias
+## 🤖 Tecnologias
 
-<div>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="100px">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
-            </div>
+![Static Badge](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-ffff00?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/JAVA-ED1D25?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge)
 
 
-</p>
+## Softwares Design
+
+![Static Badge](https://img.shields.io/badge/WORDPRESS-444140?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/ELEMENTOR-92003B?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/FIGMA-a259ff?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PHOTOSHOPP-001E36?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/ILLUSTRATOR-3c240c?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/DAVINCI%20RESOLVE-8bc0df?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CAPCUT-000000?style=for-the-badge)
+
+
+
 
 ## Minhas Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de ogabrielrusso" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=dracula" alt="Linguagens Mais Usadas de ogabrielrusso" />
-</p>
+<div align="center">
+  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogabrielrussoro&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en&layout=compact" alt="Gabriel Russo" style="max-width: 100%;">
+  
+  <img align="left" width="335px" src="https://github-readme-stats.vercel.app/api?username=ogabrielrussoro&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en" alt="Gabriel Russo" style="max-width: 100%;">
+</div>
