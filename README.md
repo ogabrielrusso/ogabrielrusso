@@ -1,13 +1,17 @@
 ## Olá, seja bem vindo ao meu perfil! 
 
-👾 Me chamo Gabriel Russo Teixeira.
+👾 Me chamo Gabriel Russo Teixeira e sou Desenvolvedor Web.
 
-📚 Bacharel em Turismo, Técnico em Informática para a Internet e Desenvolvedor Web.
+📚 Bacharel em Turismo pela Uninove, Técnico em Informática para a Internet pela Escola Técnica FAT e Desenvolvedor Web por Freecodecamp.
 
-🌱 Meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores e estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
+🌱 MeApaixonado por tecnologia meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores e estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
 
 
-📃 [Acesse meu perfil no Linkedin e entre em contato para alinharmos nossas ideias](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
+## 📬 Contato
+
+📃 [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
+
+✉️ [Envie-me uma mensagem](gabrieldevdesigner@proton.me)
 
 
 ## 🤖 Tecnologias
