@@ -40,6 +40,6 @@
 ## 📊 Estatísticas GitHub
 
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=dark)](https://github.com/ogabrielrusso
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=dark)
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=dark)](https://github.com/ogabrielrusso)
