@@ -6,6 +6,10 @@
 
 🌱 Apaixonado por tecnologia meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores a estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
 
+📖 Meus livros favoritos: A conciência do Átomo de Alice Bailey e Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
+
+☄️ Minhas inspirações: Alan Turing, Cleópatra, Leonardo Davinci, Nikola Tesla e Walt Disney.
+
 📃 [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
 
 📬 [Envie-me uma mensagem](mailto:gabrieldevdesigner@proton.me)
