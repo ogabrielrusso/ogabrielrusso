@@ -16,6 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-ffff00?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/GIT-F1502F?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/JAVA-ED1D25?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge)
 
