@@ -1,5 +1,11 @@
 ## Olá, seja bem vindo ao meu perfil! 
 
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724DD&width=435&lines=Desenvolvedor+Web...;Desenvolvedor+Web..." alt="Typing SVG" />
+  </a>
+</p>
+
 👾 Me chamo Gabriel Russo Teixeira.
 
 📚 Bacharel em Turismo, Técnico em Informática para a Internet e Desenvolvedor Web.
