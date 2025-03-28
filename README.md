@@ -1,11 +1,5 @@
 ## Olá, seja bem vindo ao meu perfil! 
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724DD&width=435&lines=Desenvolvedor+Web...;Desenvolvedor+Web..." alt="Typing SVG" />
-  </a>
-</p>
-
 👾 Me chamo Gabriel Russo Teixeira.
 
 📚 Bacharel em Turismo, Técnico em Informática para a Internet e Desenvolvedor Web.
@@ -43,4 +37,3 @@
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=dark)](https://github.com/ogabrielrusso)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=dark)](https://github.com/ogabrielrusso
-![Snake](https://github.com/{ogabrielrusso}/{ogabrielrusso}/blob/output/github-contribution-snake.svg?color=00FF00&type=vertical&palette=github-dark)
