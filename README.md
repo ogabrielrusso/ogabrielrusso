@@ -28,7 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge)
 
 
-## Softwares Design
+## 🖌️ Softwares Design
 
 ![Static Badge](https://img.shields.io/badge/WORDPRESS-444140?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ELEMENTOR-92003B?style=for-the-badge)
@@ -42,10 +42,7 @@
 
 
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
-<div align="center">
-  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogabrielrussoro&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en&layout=compact" alt="GabrielRusso" style="max-width: 100%;">
-  
-  <img align="left" width="335px" src="https://github-readme-stats.vercel.app/api?username=ogabrielrussoro&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en" alt="GabrielRusso" style="max-width: 100%;">
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=dark)](https://github.com/ogabrielrusso)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=dark)](https://github.com/ogabrielrusso
