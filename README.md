@@ -6,12 +6,9 @@
 
 🌱 Apaixonado por tecnologia meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores a estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
 
-
-## 📬 Contato
-
 📃 [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
 
-✉️ [Envie-me uma mensagem](gabrieldevdesigner@proton.me)
+📬 [Envie-me uma mensagem](gabrieldevdesigner@proton.me)
 
 
 ## 🤖 Tecnologias
@@ -40,5 +37,5 @@
 ## 📊 Estatísticas GitHub
 
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=morksul)](https://github.com/ogabrielrusso)
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=morksul)](https://github.com/ogabrielrusso)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielrusso&layout=compact&theme=vue-dark)](https://github.com/ogabrielrusso)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ogabrielrusso&show_icons=true&theme=vue-dark)](https://github.com/ogabrielrusso)
