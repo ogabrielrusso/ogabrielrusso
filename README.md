@@ -31,7 +31,7 @@
 ![Static Badge](https://img.shields.io/badge/ELEMENTOR-92003B?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/FIGMA-a259ff?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/PHOTOSHOPP-001E36?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PHOTOSHOP-001E36?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ILLUSTRATOR-3c240c?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/DAVINCI%20RESOLVE-8bc0df?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/CAPCUT-000000?style=for-the-badge)
