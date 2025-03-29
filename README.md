@@ -2,6 +2,8 @@
 
 👾 Me chamo Gabriel Russo Teixeira e sou Desenvolvedor Web.
 
+💼 Web Designer autônomo desde 2022.
+
 📚 Bacharel em Turismo pela Uninove, Técnico em Informática para a Internet pela Escola Técnica FAT e Desenvolvedor Web por Freecodecamp.
 
 🌱 Apaixonado por tecnologia meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores a estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
