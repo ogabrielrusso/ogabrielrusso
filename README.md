@@ -1,14 +1,12 @@
-## Olá, seja bem vindo ao meu perfil! 
+## 👾 Gabriel Russo Teixeira 
 
-👾 Me chamo Gabriel Russo Teixeira e sou Desenvolvedor Web.
+🧑‍💻 Desenvolvedor Web
 
-📚 Bacharel em Turismo pela Uninove, Técnico em Informática para a Internet pela Escola Técnica FAT e Desenvolvedor Web por Freecodecamp.
-
+👨‍🎓 Técnico em Informática e Web Design Responsivo.
+ 
 💼 Web Designer autônomo desde 2022.
 
-🌱 Apaixonado por tecnologia meu objetivo é ajudar empresas a unir a criação de web sites/apps responsivos com designs inovadores a estratégias de marketing que vendem. Sempre pensando na melhor experiência do usuário!
-
-📖 Livros favoritos: A conciência do Átomo de Alice Bailey e Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
+📚 Livros favoritos: A conciência do Átomo de Alice Bailey e Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
 
 ☄️ Inspirações: Alan Turing, Cleópatra, Leonardo Davinci, Nikola Tesla e Walt Disney.
 
