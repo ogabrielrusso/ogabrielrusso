@@ -6,14 +6,38 @@
  
 💼 Web Designer autônomo desde 2022.
 
-📚 Livros favoritos: A conciência do Átomo de Alice Bailey e Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
 
-☄️ Inspirações: Alan Turing, Cleópatra, Leonardo Davinci, Nikola Tesla e Walt Disney.
+## 🧠 Inspirações & Leitura
 
-📃 [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
+<br>
 
-📬 [Envie-me uma mensagem](mailto:gabrieldevdesigner@proton.me)
+📚 Livros 
 
+- A conciência do Átomo de Alice Bailey
+  - Me faz refletir sobre o què é a conciẽncia e onde ela pode se manifestar.
+
+- Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
+  - Aqui encontrei elementos que abordam a Inteligência Articial mesmo que discretamnete. Basta prestar atenção.
+
+  <br>
+
+
+ ☄️ Inspirações
+
+ - Alan Turing, o pai da IA.
+ - Cleópatra, a mulher símbolo do conhecimento.
+ - Nikola Tesla, O arquiteto do invisível.
+ - Walt Disney, o materializador de sonhos.
+
+ <br>
+
+## 📬  Contato
+
+[Acesse meu perfil no Linkedin](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
+
+[Envie-me uma mensagem](mailto:gabrieldevdesigner@proton.me)
+
+<br>
 
 ## 🤖 Tecnologias
 
@@ -25,7 +49,7 @@
 ![Static Badge](https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/VERCEL-010000?style=for-the-badge)
 
-
+<br>
 
 ## 🖌️ Softwares Design
 
@@ -39,7 +63,7 @@
 ![Static Badge](https://img.shields.io/badge/CAPCUT-000000?style=for-the-badge)
 
 
-
+<br>
 
 ## 📊 Estatísticas GitHub
 
