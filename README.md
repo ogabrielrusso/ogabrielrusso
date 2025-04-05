@@ -9,7 +9,6 @@
 
 ## 🧠 Inspirações & Leitura
 
-<br>
 
 📚 Livros 
 
@@ -19,7 +18,7 @@
 - Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
   - Aqui encontrei elementos que abordam a Inteligência Articial mesmo que discretamnete. Basta prestar atenção.
 
-  <br>
+  
 
 
  ☄️ Inspirações
@@ -29,7 +28,7 @@
  - Nikola Tesla, O arquiteto do invisível.
  - Walt Disney, o materializador de sonhos.
 
- <br>
+
 
 ## 📬  Contato
 
@@ -37,7 +36,6 @@
 
 [Envie-me uma mensagem](mailto:gabrieldevdesigner@proton.me)
 
-<br>
 
 ## 🤖 Tecnologias
 
@@ -49,7 +47,6 @@
 ![Static Badge](https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/VERCEL-010000?style=for-the-badge)
 
-<br>
 
 ## 🖌️ Softwares Design
 
@@ -62,8 +59,6 @@
 ![Static Badge](https://img.shields.io/badge/DAVINCIRESOLVE-8bc0df?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/CAPCUT-000000?style=for-the-badge)
 
-
-<br>
 
 ## 📊 Estatísticas GitHub
 
