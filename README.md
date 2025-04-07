@@ -13,10 +13,10 @@
 📚 Livros 
 
 - A conciência do Átomo de Alice Bailey
-  - Me faz refletir sobre o qu é a conciẽncia e onde ela pode se manifestar.
+  - Me faz refletir sobre o que é a conciẽncia e onde ela pode se manifestar.
 
 - Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
-  - Aqui encontrei elementos que abordam a Inteligência Articial mesmo que discretamnete. Basta prestar atenção.
+  - Encontrei elementos que abordam a Inteligência Articial mesmo que discretamnete. Basta prestar atenção.
 
   
 
