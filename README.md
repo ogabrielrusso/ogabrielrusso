@@ -13,10 +13,10 @@
 📚 Livros 
 
 - A conciência do Átomo de Alice Bailey
-  - Me faz refletir sobre o que é a conciẽncia e onde ela pode se manifestar.
+  - Reflexão sobre o que é a conciência e onde ela pode se manifestar.
 
 - Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
-  - Encontrei elementos que abordam a Inteligência Articial mesmo que discretamnete. Basta prestar atenção.
+  - Elementos narrativos que abordam a Inteligência Articial mesmo que discretamnete. Basta prestar atenção.
 
   
 
@@ -41,11 +41,14 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SASS-%23cc6699?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/BOOTSTRAP-%238312FA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-ffff00?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/GIT-F1502F?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/JAVA-ED1D25?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/GIT-F1502F?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/VERCEL-010000?style=for-the-badge)
+
 
 
 ## 🖌️ Softwares Design
