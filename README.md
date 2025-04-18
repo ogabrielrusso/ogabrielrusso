@@ -2,31 +2,23 @@
 
 🧑‍💻 Desenvolvedor Web
 
-👨‍🎓 Técnico em Informática e Web Design Responsivo.
+📚 Técnico em Informática e Web Design Responsivo.
  
 💼 Web Designer autônomo desde 2022.
 
 
-## 🧠 Inspirações & Leitura
+## 🧠 Interesses
 
-
-📚 Livros 
-
-- A conciência do Átomo de Alice Bailey
-  - Reflexão sobre o que é a conciência e onde ela pode se manifestar.
-
-- Operação Cavalo de Tróia - Jerusalem de J.J. Benítez.
-  - Elementos narrativos que abordam a Inteligência Articial mesmo que discretamnete. Basta prestar atenção.
-
-  
-
-
- ☄️ Inspirações
-
- - Alan Turing, o pai da IA.
- - Cleópatra, a mulher símbolo do conhecimento.
- - Nikola Tesla, O arquiteto do invisível.
- - Walt Disney, o materializador de sonhos.
+📖 Livros
+<br>
+📹 Documentários
+<br>
+🖋 Desenho
+<br>
+🎼 Música
+<br>
+🌲 Natureza
+<br>
 
 
 
