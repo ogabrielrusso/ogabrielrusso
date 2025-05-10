@@ -7,21 +7,6 @@
 💼 Web Designer autônomo desde 2022.
 
 
-## 🧠 Interesses
-
-📖 Livros
-<br>
-📹 Documentários
-<br>
-🖋 Desenho
-<br>
-🎼 Música
-<br>
-🌲 Natureza
-<br>
-
-
-
 ## 📬  Contato
 
 [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/gabriel-russo-teixeira-5b6a73312/)
